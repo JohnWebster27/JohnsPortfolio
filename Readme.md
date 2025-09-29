@@ -1,10 +1,6 @@
-# Welcome to my data analysis portfolio!
+# Welcome to my data science portfolio!
 
-I plan to be adding files to this folder monthly at the very least. My goal is to become a data scientist within the healthcare field. I am currently working on a MS in Data Science that I anticipate finishing
-in the spring of 2026. I currently have a MPH in epidemiology and am a practicing infectious disease epidemiologist. The languages I currently use in my work related activities are:
+I plan to be adding files to this folder that demonstrate my knowledge of deploying machine learning models and I always welcome suggestions on where I can improve. My goal is to become a leading data scientist in the industry. I am currently working on a MS in Data Science that I anticipate finishing
+in the fall of 2025. Please feel free to look through my projects in either Python or R and know that I will be adding new projects as time allows. Thank you for taking the time to look at my work!
 
-- Python
-- R
-- SAS 9.4
-
-I am constantly working to add new skills to my toolbet. Future plans include learning to use PowerBI, continue my previous learning of ArcGIS, and mastering SQL. 
+-John Webster
